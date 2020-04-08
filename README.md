@@ -1,4 +1,7 @@
 Frist, download and install Docker Desktop in your computer. Once, you are done with that, you can follow the steps here to create a development environment!
+
+http://www.abhizer.com/setting-up-a-python-development-environment-with-docker-and-alpine-linux/
+
 ## Setting up the Docker
 
 First pull the docker image:
